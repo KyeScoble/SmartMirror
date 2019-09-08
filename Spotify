@@ -1,0 +1,12 @@
+{
+    module: "MMM-NowPlayingOnSpotify",
+    position: "top_right",
+
+    config: {
+        showCoverArt: false,
+        clientID: "<YOUR_CLIENT_ID>",
+        clientSecret: "<YOUR_CLIENT_SECRET>",
+        accessToken: "<YOUR_ACCESS_TOKEN>",
+        refreshToken: "<YOUR_REFRESH_TOKEN>"
+    }
+}
