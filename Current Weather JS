@@ -1,6 +1,4 @@
-Guided By: https://michaelteeuw.nl
-//This code is for current weather to be displayed not weather forecast as thats going to be a seperate program.
-Module.register("currentweather",{
+
 
 	//Current weather code, but in js
 	Core: {
